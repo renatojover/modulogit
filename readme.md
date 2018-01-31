@@ -1,4 +1,4 @@
-Meu segundo sistema no GIT
+Meu segundo sistema no GIT (uma nova altera
 
 Comandos git
 
@@ -26,4 +26,6 @@ git remote add origin https://github.com/renatojover/modulogit.git
 
 git fetch = remoto para local
 git push = local para remoto
+
+Cria um arquivo chamado .gitignore e nele relaciona todos os arquivos que voce não quer que apareçam no commit e no push
 
